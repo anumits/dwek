@@ -3,4 +3,5 @@ module Dwek::Mappers
   autoload :ConcatMapper, 'dwek/mappers/concat_mapper'
   autoload :DirectMapper, 'dwek/mappers/direct_mapper'
   autoload :InclusionMapper, 'dwek/mappers/inclusion_mapper'
+  autoload :CsvMapper, 'dwek/mapper/csv_mapper'
 end
